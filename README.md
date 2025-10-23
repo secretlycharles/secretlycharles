@@ -5,7 +5,7 @@ I'm currently a college student residing in the United States with a dream of bu
 I’m currently studying Computer Science while continuing to break, build, and analyze complex software systems. On the side, I enjoy working out, experimenting with startups, and occasionally, sleeping. Check out my projects below and feel free to connect with me!
 
 ## 🚀Projects
-- 🛠️ [antibot.re](https://antibot.re/) — a research blog dedicated to reverse engineering modern anti-bot systems and more.
+- N/A
 
 ## Connect With Me!
 You may have seen my work without realizing I was a part of it. I'd love to connect and hear your feedback! Reach out below:
