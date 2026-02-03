@@ -20,6 +20,7 @@
 ## 📁 Past Projects
 - 🕵️‍♂️ **[Shape Security VM Reversal](https://github.com/secretlycharles/ShapeSecurity)** — reverse engineering of Shape's JavaScript virtual machine (June-July 2025, private)
 - ⚙️ **[JavaScript StackVM](https://github.com/secretlycharles/StackVM)** — bytecode VM with assembler, disassembler, compiler, and web deployment (July 2025, private)
+- 🤖  **[Concierge](https://github.com/secretlycharles/Concierge)** - ai-powered LLM assistant discord bot for the SJDC CS Discord Server
 
 ## 🔗 Connect With Me!
 📬 You can email me at **imcharlesmendez** [at] **gmail** [dot] **.com**
