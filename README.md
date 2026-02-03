@@ -1,9 +1,13 @@
 <h1 align="center">Hey 👋, I'm Charles</h1>
-### 🔭 I'm currently working on
-- [@Starmonitors](https://github.com/Starmonitors) — a
-- [@Antibotre](https://github.com/Antibotre) — Short description here.
-- [@Sentrabot](https://github.com/Sentrabot) — Short description here.
 
+<p>🔭 I'm currently working on<p>
+<ul>
+  <li><a href="https://github.com/Starmonitors">@Starmonitors</a> — a</li>
+  <li><a href="https://github.com/Antibotre">@Antibotre</a> — Short description here.</li>
+  <li><a href="https://github.com/Sentrabot">@Sentrabot</a> — Short description here.</li>
+</ul>
 
-- 💬 Hi
-- 📫 You can reach out to me at
+<ul>
+  <li>💬 Hi</li>
+  <li>📫 You can reach out to me at</li>
+</ul>
