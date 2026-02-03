@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Charles</h1>
+# Hey 👋, I'm Charles
 
 ## 🔭 Current Projects
 - 💫 **[@starmonitors](https://github.com/starmonitors)** - big box retailer monitoring service for in-store leads, stock, and data
