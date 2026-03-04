@@ -15,7 +15,7 @@
 ## 🔭 Current Projects
 - 💫 **[@starmonitors](https://github.com/starmonitors)** - big box retailer monitoring service for in-store leads, stock, and data
 - 🧩 **[@antibotre](https://github.com/antibotre)** - anti-bot/captcha research and automatic anti-bot & captcha solving service
-- 🛡️ **[@sentra](https://github.com/sentrabot)** - frictionless anti-bot protection using behavioral telemetry, browser fingerprinting, and advanced obfuscation
+- 🛡️ **[@sentra](https://github.com/sentrasoftware)** - frictionless anti-bot protection using behavioral telemetry, browser fingerprinting, and advanced obfuscation
 
 ## 📁 Past Projects
 - 🕵️‍♂️ **[Shape Security VM Reversal](https://github.com/secretlycharles/ShapeSecurity)** — reverse engineering of Shape's JavaScript virtual machine (June-July 2025, private)
